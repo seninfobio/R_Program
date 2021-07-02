@@ -1,6 +1,29 @@
 # R_Program
 
+Install R and RStudio on Windows 7, 8 or 10. A tutorial for a beginner is here.
+
+Install the following packages before the course:
+
+* [ggplot2](https://cran.r-project.org/web/packages/ggplot2/index.html)
+* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [Tutorial](https://biostats.w.uib.no/up-in-the-r-2/introduction-to-r/)
+
+
 
 
 ```r
