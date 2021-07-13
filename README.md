@@ -77,7 +77,7 @@ out_comp_lr
 
 - Make a curve : Use Bezier to draw and *Shit + A* to make a curve at a specific point
 
-- Then fill with a color of your choice by selecting Fill bounded area
+- Then fill with a color of your choice by selecting Fill bounded area (Copy the color code (Fill and Stroke) to main the border color as same)
 
 - Then harmonize the area and stroke color
 
