@@ -48,6 +48,8 @@ corrl <-corr_coef(F2_Plants_nodesdata1[,-1])
 
 plot(corrl)
 ```
+Output
+![img](https://github.com/seninfobio/R_Program/blob/seninfobio/coeff1.png?raw=true)
 
 
 
