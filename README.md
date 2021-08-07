@@ -9,7 +9,7 @@ Install the following packages before the course:
 
 
 #GGally#
-Correlation coefficient
+Correlation coefficient [help](https://www.rdocumentation.org/packages/GGally/versions/1.5.0/topics/ggpairs)
 
 ```r
 # Data imporatation
