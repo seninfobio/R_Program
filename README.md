@@ -31,6 +31,24 @@ ggpairs(data_f2, columns = 2:5, ggplot2::aes(colour=Type))
 ```
 output
 
+![img](https://github.com/seninfobio/R_Program/blob/seninfobio/ggally_8_78_10_23_landscape.png?raw=true)
+
+
+
+```r
+# Package
+install.package(metan)
+library(metan)
+
+# Data imporatation
+
+corrl <-corr_coef(F2_Plants_nodesdata1[,-1])
+
+#Run
+
+plot(corrl)
+```
+
 
 
 
