@@ -8,6 +8,31 @@ Install the following packages before the course:
 * 
 
 
+#GGally#
+Correlation coefficient
+
+```r
+# Data imporatation
+
+data_f2 = read.csv("F2_Plants_groupingnodes.csv", h = T, sep = ",")
+
+View(data_f2)
+
+# Package
+
+library(GGally)
+
+# Run
+
+ggpairs(data_f2, columns = 2:5)
+
+ggpairs(data_f2, columns = 2:5, ggplot2::aes(colour=Type))
+
+```
+output
+
+
+
 
 
 
