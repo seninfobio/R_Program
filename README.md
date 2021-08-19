@@ -8,6 +8,14 @@ Install the following packages before the course:
 * 
 
 
+
+[Plot design](https://yulab-smu.top/biomedical-knowledge-mining-book/enrichplot.html)
+
+* with  many examples of barplot, heatmap, etc. 
+
+
+
+
 #GGally#
 Correlation coefficient [help](https://www.rdocumentation.org/packages/GGally/versions/1.5.0/topics/ggpairs)
 
