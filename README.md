@@ -141,7 +141,7 @@ out_comp_lr
 
 - Then Click *End* key to put in in backfront
 
-[Cropping](https://www.youtube.com/watch?v=v-JxhF3D4No)
+# Cropping [Ref:youtube](https://www.youtube.com/watch?v=v-JxhF3D4No)
 - select the Rectangular symbol and select the area of your image
 - click outside to select the whole image and press *shift key to selected the respected portion of your needed
 - click object drag icon and select clip and set the image as you want.....Bingo
