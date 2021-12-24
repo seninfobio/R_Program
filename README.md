@@ -146,5 +146,6 @@ out_comp_lr
 - click outside to select the whole image and press *shift key to selected the respected portion of your needed
 - click object drag icon and select clip and set the image as you want.....Bingo
 
-
+# https://github.com/ourcodingclub
+[EFFICIENT AND BEAUTIFUL DATA SYNTHESIS](https://ourcodingclub.github.io/tutorials/dataviz-beautification-synthesis/)
 
