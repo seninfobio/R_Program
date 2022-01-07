@@ -1,11 +1,18 @@
 # R_Program
 
-Install R and RStudio on Windows 7, 8 or 10. A tutorial for a beginner is here.
+Install [R](https://cran.r-project.org/bin/windows/base/) and [RStudio](https://www.rstudio.com/products/rstudio/download/) on Windows 7, 8 or 10. A tutorial for a beginner is [here](https://medium.com/@GalarnykMichael/install-r-and-rstudio-on-windows-5f503f708027).
 
 Install the following packages before the course:
 
+A tutorial for package installation in RStudio is [here](https://courses.edx.org/courses/UTAustinX/UT.7.01x/3T2014/56c5437b88fa43cf828bff5371c6a924/)
+It is more easier to install CRAN packages at once by typing
+```
+install.packages(c("rgdal", "mapdata", "mapproj" ,"maps" ,"ggplot2", "ggrepel", "dplyr", "scales", "ggmap", "gpclib", "rgeos"))
+
+```
+
 * [ggplot2](https://cran.r-project.org/web/packages/ggplot2/index.html)
-* 
+
 
 
 
