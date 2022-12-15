@@ -1,5 +1,13 @@
 # R_Program
 
+Install the GeoMxTools facing lots of issues in R 
+The package has not be easily installed due to update issues, missing package, masking to other integrated tools.
+So, I have tried with remove the packages from the '
+`remove.packages(c("PKG1", "PKG2", "PKG3"), lib = "/usr/lib/R/library")`
+And again reinstall the packages and after that working well
+
+
+
 Install [R](https://cran.r-project.org/bin/windows/base/) and [RStudio](https://www.rstudio.com/products/rstudio/download/) on Windows 7, 8 or 10. A tutorial for a beginner is [here](https://medium.com/@GalarnykMichael/install-r-and-rstudio-on-windows-5f503f708027).
 
 Install the following packages before the course:
